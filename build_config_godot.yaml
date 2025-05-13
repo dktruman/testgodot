@@ -1,0 +1,9 @@
+target_branches:
+  - main
+
+project_root_path: ObstacleCourse
+
+game_engine: godot
+
+build_targets:
+  - windows_x86_64
