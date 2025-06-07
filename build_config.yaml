@@ -1,7 +1,7 @@
 target_branches:
   - main
 
-project_root_path: ObstacleCourse
+project_root_path: dodge
 
 game_engine: godot
 
